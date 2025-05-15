@@ -1,0 +1,73 @@
+{
+    "siteTitle": "我的导航",
+    "theme": {
+      "light": {
+        "bgColor": "#ffffff",
+        "textColor": "#333333",
+        "cardBg": "#f5f5f5",
+        "hoverColor": "#e0e0e0",
+        "sidebarBg": "#f8f8f8",
+        "activeColor": "#4a90e2"
+      },
+      "dark": {
+        "bgColor": "#1a1a1a",
+        "textColor": "#ffffff",
+        "cardBg": "#2d2d2d",
+        "hoverColor": "#3d3d3d",
+        "sidebarBg": "#252525",
+        "activeColor": "#64b5f6"
+      }
+    },
+    "categories": [
+      {
+        "id": "tools",
+        "name": "工具类",
+        "icon": "🛠️",
+        "pages": [
+          {
+            "title": "计算器",
+            "path": "/tools/calculator",
+            "description": "简单好用的在线计算器",
+            "tags": ["工具", "数学"],
+            "icon": "🧮"
+          },
+          {
+            "title": "时钟",
+            "path": "/tools/clock",
+            "description": "精确的在线时钟",
+            "tags": ["工具", "时间"],
+            "icon": "⏰"
+          }
+        ]
+      },
+      {
+        "id": "games",
+        "name": "游戏类",
+        "icon": "🎮",
+        "pages": [
+          {
+            "title": "拼图游戏",
+            "path": "/games/puzzle",
+            "description": "休闲益智小游戏",
+            "tags": ["游戏", "益智"],
+            "icon": "🧩"
+          }
+        ]
+      },
+      {
+        "id": "games",
+        "name": "游类",
+        "icon": "🎮",
+        "pages": [
+          {
+            "title": "拼图游戏",
+            "path": "/games/puzzle",
+            "description": "休闲益智小游戏",
+            "tags": ["游戏", "益智"],
+            "icon": "🧩"
+          }
+        ]
+      }
+    ]
+  }
+  
