@@ -28,6 +28,7 @@
             "title": "临时邮箱",
             "path": "https://bonemail.pages.dev",
             "description": "使用gu28.org邮箱",
+            "target": "_blank"
             "tags": ["工具"],
             "icon": "🧮"
           }
