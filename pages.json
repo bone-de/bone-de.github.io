@@ -26,7 +26,7 @@
         "pages": [
           {
             "title": "临时邮箱",
-            "path": "/tools/calculator",
+            "path": "https://bonemail.pages.dev",
             "description": "使用gu28.org邮箱",
             "tags": ["工具"],
             "icon": "🧮"
