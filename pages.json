@@ -25,46 +25,11 @@
         "icon": "🛠️",
         "pages": [
           {
-            "title": "计算器",
+            "title": "临时邮箱",
             "path": "/tools/calculator",
-            "description": "简单好用的在线计算器",
-            "tags": ["工具", "数学"],
+            "description": "使用gu28.org邮箱",
+            "tags": ["工具"],
             "icon": "🧮"
-          },
-          {
-            "title": "时钟",
-            "path": "/tools/clock",
-            "description": "精确的在线时钟",
-            "tags": ["工具", "时间"],
-            "icon": "⏰"
-          }
-        ]
-      },
-      {
-        "id": "games",
-        "name": "游戏类",
-        "icon": "🎮",
-        "pages": [
-          {
-            "title": "拼图游戏",
-            "path": "/games/puzzle",
-            "description": "休闲益智小游戏",
-            "tags": ["游戏", "益智"],
-            "icon": "🧩"
-          }
-        ]
-      },
-      {
-        "id": "games",
-        "name": "游类",
-        "icon": "🎮",
-        "pages": [
-          {
-            "title": "拼图游戏",
-            "path": "/games/puzzle",
-            "description": "休闲益智小游戏",
-            "tags": ["游戏", "益智"],
-            "icon": "🧩"
           }
         ]
       }
